@@ -43,6 +43,7 @@ This is a simple Brick Breaker game built using C++ and the SFML (Simple and Fas
 Run the executable after compiling:
 ```sh
 ./BrickBreaker
+```
 
 ## Gameplay
 * Controls: Use the left and right arrow keys to move the paddle.
