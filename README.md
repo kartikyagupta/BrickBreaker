@@ -43,3 +43,10 @@ This is a simple Brick Breaker game built using C++ and the SFML (Simple and Fas
 Run the executable after compiling:
 ```sh
 ./BrickBreaker
+
+## Gameplay
+* Controls: Use the left and right arrow keys to move the paddle.
+* Goal: Bounce the ball using the paddle to break all the bricks and score points. If the ball falls below the paddle, it will reset to the starting position.
+
+## Contributing
+Contributions are welcome! Please fork this repository and submit pull requests with any features, bug fixes, or improvements.
